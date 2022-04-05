@@ -1,0 +1,47 @@
+[
+    {
+        "id": 17,
+        "titulo": "Pieles reales",
+        "autor": "Dadatina",
+        "genero": "Salud",
+        "precio": 1400,
+        "stock": 55,
+        "imagen": "../img/pieles-reales"
+    },
+    {
+        "id": 18,
+        "titulo": "Solas (aún acompañadas)",
+        "autor": "María Florencia Freijo",
+        "genero": "Feminismo",
+        "precio": 1200,
+        "stock": 100,
+        "imagen": "../img/solas.jpg"
+    },
+    {
+        "id": 19,
+        "titulo": "Maleducadas",
+        "autor": "María Florencia Freijo",
+        "genero": "Feminismo",
+        "precio": 1600,
+        "stock": 5,
+        "imagen": "../img/maleducadas.jpg"
+    },
+    {
+        "id": 20,
+        "titulo": "Mal comidos",
+        "autor": "Soledad Barruti",
+        "genero": "Actualidad",
+        "precio": 1500,
+        "stock": 30,
+        "imagen": "../img/mal-comidos.jgs"
+    },
+    {
+        "id": 21,
+        "titulo": "Sexo ATR",
+        "autor": "Lic. Cecilia Ce",
+        "genero": "Sexología",
+        "precio": 1000,
+        "stock": 30,
+        "imagen": "../img/sexo-atr.jpg"
+    }
+]
