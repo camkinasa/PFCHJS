@@ -9,7 +9,7 @@ let carrito = []
 let divMostrarLibrosPromo = document.getElementById("mostrarLibrosPromo")
 
 async function obtenerLibrosPromo() {
-    const response = await fetch('https://raw.githubusercontent.com/camkinasa/libros-promos/master/libros-promo.json')
+    const response = await fetch('https://raw.githubusercontent.com/camkinasa/PFCHJS/master/json/libros-promo.json')
     return await response.json()
 }
 
